@@ -77,5 +77,5 @@ Já sou formada em Recursos Humanos. Atualmente, estou cursando Tecnico em Desen
     align="left" 
     alt="GitHub Stats"
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAMILALISTON&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAMILALISTON&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
